@@ -1,2 +1,2 @@
-from aivenproject import pymysql
+import pymysql
 pymysql.istall_as_MYSQLDB()
